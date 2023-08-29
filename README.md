@@ -1,4 +1,4 @@
-# Proyecto módulo 2. Exploración, limpieza y análisis
+# Proyecto módulo 2: egit sxploración, limpieza y análisis
 
 ## Descripción:
 
