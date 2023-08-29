@@ -46,7 +46,7 @@ El repositorio incluye 4 carpetas:
 
 ## Integrantes del equipo:
 
-- Victoria
+- Victoria Suárez
 
 - Irene Nicolás
 
